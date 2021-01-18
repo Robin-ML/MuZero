@@ -1,5 +1,5 @@
-.. |copy| unicode:: 0xA9
-.. |---| unicode:: U+02014
+![license MIT](https://img.shields.io/badge/licence-MIT-green)
+
 
 ======
 MuZero
