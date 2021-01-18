@@ -1,4 +1,3 @@
-![license MIT](https://img.shields.io/badge/licence-MIT-green)
 
 ======
 MuZero
